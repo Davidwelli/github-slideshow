@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-To be or not to be.
+To be or not to be. That is the question.
 Use the left arrow to go back!
