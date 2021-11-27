@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-New sample text changes to previous text
+To be or not to be.
 Use the left arrow to go back!
